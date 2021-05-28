@@ -1,7 +1,7 @@
 - 👋 Hi, Salim
-- 👀 I’m interested in software development, mainly applying applying tech to healthcare
+- 👀 I’m interested in software/app development, mainly applying applying tech to healthcare
 - 🌱 I’m currently learning Ai/Machine learning
-- 💞️ I’m self-taught programmer with a medical degree background.
+- 💞️ I’m self-taught programmer with a medical background.
 - 📫 aiden.owlen@gmail.com
 
 <!---
