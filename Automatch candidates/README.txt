@@ -1,0 +1,1 @@
+Software that automates matching candidates to assignments.

@@ -1,0 +1,1 @@
+this is a simple autoIt script to schedule fb posts of the week.
