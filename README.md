@@ -1,8 +1,8 @@
 - 👋 Hi, Salim
 - 👀 I’m interested in software/app development, mainly applying tech to healthcare
-- 🌱 I’m currently learning Ai/Machine learning
+- 🌱 I have a deep interest in Ai/machine learning.
 - 💞️ I’m self-taught programmer with a medical background.
-- 📫 aiden.owlen@gmail.com
+- 📫 elmejjad.salim@gmail.com
 
 <!---
 aidenOwlen/aidenOwlen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
